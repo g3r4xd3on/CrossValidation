@@ -4,7 +4,3 @@ This program can be import and export .xls or .xlsx file types.
 Test datas are chosen randomly and without repetition. 
 The amount of test data and k number are changeable. 
 The process can be done manually or automatically.
-
-Source code will be added...
-
-Coming Soon...
