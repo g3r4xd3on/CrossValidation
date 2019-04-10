@@ -5,4 +5,5 @@ Test datas are chosen randomly and without repetition.
 The amount of test data and k number are changeable. 
 The process can be done manually or automatically.
 
-Note: If you are using Microsoft Office 2013  or above, program may won't work. Make sure Microsoft Office 2007 installed on your pc to run.
+Note: If program didn't work, make sure Microsoft Access Database Engine 2010 Redistributable x86 installed on your pc. You can download from here:
+https://www.microsoft.com/en-us/download/details.aspx?id=13255
